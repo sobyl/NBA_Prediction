@@ -1,8 +1,10 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sobyl/NBA_Prediction/master?filepath=final.ipynb)
+
 # Team members:
 Yu Liu, Hui Du, Siyuan Ji
 
 # Problems/Motivation
-- [data resource] (https://www.basketball-reference.com)
+- [data resource](https://www.basketball-reference.com)
 - We want do the predictive project based on the basketball statistical data from website.
 We can use all players and team data to predict the winner between two team or MVP (most valueable player).
 
@@ -23,7 +25,7 @@ We can use all players and team data to predict the winner between two team or M
 - ...etc
 
 # Any Literature review.
-- [MVP prediction model] (https://towardsdatascience.com/nba-mvp-predictor-c700e50e0917)
+- [MVP prediction model](https://towardsdatascience.com/nba-mvp-predictor-c700e50e0917)
 
 # Required work detail before build model(clean up, hypothesis, data bias analysis etc.).
 - build data frame
